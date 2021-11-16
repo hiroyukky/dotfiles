@@ -1,0 +1,6 @@
+.*~
+*~
+/emacs/*
+!/emacs/init.el
+!/emacs/conf
+
